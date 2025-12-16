@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+Programmer+%7C+Problem+Solver;Building+Real-World+Tech+Solutions"/>
+</p>
 ## 👋 Hi there, I'm ARCHANA GURUSAMY!!
 
 🎯 A passionate **Full Stack Web Developer** with a focus on the **MERN Stack**, creative **UI/UX Designer**, and skilled **Java Programmer** with a love for solving real-world problems.
@@ -49,12 +52,15 @@
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 
 ## 🧑‍💻 GitHub Profile Insights
 
-### 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&no-frame=true&row=1)
+### 📌 GitHub Overview
+- Actively building projects in **MERN Stack & Java**
+- Regularly practicing **DSA and backend development**
+- Focused on clean code and real-world problem solving
 
 ### 📊 GitHub Stats 
 
@@ -64,16 +70,17 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR\&layout=compact\&theme=radical)
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ARCHANA-SENGUNTHAR&theme=radical)
-
 ### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=react-dark)
+
+## 📈 Contributions & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
 ### 🌱 Currently Learning
+
 - Advanced backend development with Node.js  
 - CSS Animations for frontend development  
 - Competitive programming using Java
@@ -81,6 +88,7 @@
 ---
 
 ### 🤝 Let's Collaborate On
+
 - Open Source Projects  
 - Web Development Internships  
 - Java Development  
@@ -89,9 +97,20 @@
 ---
 
 ### 📫 How to Reach Me
-- 💌 Email: archanagurusamy648@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/archanagurusamy](https://www.linkedin.com/in/archanagurusamy)  
-- 🌐 Portfolio: coming soon  
+
+<p align="left">
+  <a href="mailto:archana.gurusamy.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/archanagurusamy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ARCHANA-SENGUNTHAR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
