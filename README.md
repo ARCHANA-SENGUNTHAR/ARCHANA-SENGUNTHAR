@@ -74,7 +74,7 @@
 
 ## 📈 Contributions & Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/6f42c1/ARCHANA-SENGUNTHAR"/>
+  <img src="https://ghchart.rshah.org/b026ff/ARCHANA-SENGUNTHAR"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
