@@ -1,7 +1,9 @@
+## 👋 Hi there, I'm ARCHANA GURUSAMY!!
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+Programmer+%7C+Problem+Solver;Building+Real-World+Tech+Solutions"/>
 </p>
-## 👋 Hi there, I'm ARCHANA GURUSAMY!!
+
 
 🎯 A passionate **Full Stack Web Developer** with a focus on the **MERN Stack**, creative **UI/UX Designer**, and skilled **Java Programmer** with a love for solving real-world problems.
 
@@ -11,7 +13,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ARCHANA-SENGUNTHAR&label=Profile%20Views&color=blue&style=flat)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 🛠️ Tech Stack
 
@@ -51,7 +53,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 
@@ -63,20 +65,18 @@
 - Focused on clean code and real-world problem solving
 
 ### 📊 GitHub Stats 
-
 ![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical)
 
 ### 💻 Top Languages
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR\&layout=compact\&theme=radical)
 
 ### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=react-dark)
 
 ## 📈 Contributions & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/ARCHANA-SENGUNTHAR"/>
+</p>
 ---
 
 ### 🌱 Currently Learning
