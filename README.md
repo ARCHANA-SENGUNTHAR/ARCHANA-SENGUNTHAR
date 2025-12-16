@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm ARCHANA GURUSAMY!!
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+Programmer+%7C+Problem+Solver;Building+Real-World+Tech+Solutions"/>
 </p>
@@ -7,7 +6,7 @@
 
 🎯 A passionate **Full Stack Web Developer** with a focus on the **MERN Stack**, creative **UI/UX Designer**, and skilled **Java Programmer** with a love for solving real-world problems.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 👀 Profile Views
 
@@ -75,17 +74,18 @@
 
 ## 📈 Contributions & Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/ARCHANA-SENGUNTHAR"/>
+  <img src="https://ghchart.rshah.org/c084fc/ARCHANA-SENGUNTHAR"/>
 </p>
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 🌱 Currently Learning
 
 - Advanced backend development with Node.js  
 - CSS Animations for frontend development  
 - Competitive programming using Java
-
----
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 🤝 Let's Collaborate On
 
@@ -94,7 +94,7 @@
 - Java Development  
 - Hackathons and Tech Communities
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 📫 How to Reach Me
 
@@ -112,7 +112,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### ✨ Fun Fact  
 I believe in *"Code. Design. Repeat."* and enjoy blending tech with creativity!
