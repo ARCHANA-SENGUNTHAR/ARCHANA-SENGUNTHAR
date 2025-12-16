@@ -6,7 +6,7 @@
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ARCHANA-SENGUNTHAR\&label=Profile%20Views\&color=blue\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ARCHANA-SENGUNTHAR&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
@@ -52,18 +52,21 @@
 
 ## 🧑‍💻 GitHub Profile Insights
 
-### 🏆 Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR\&theme=gruvbox\&margin-w=10)
+### 🏆 Trophies
 
-### 📊 GitHub Stats  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&margin-w=10)
+
+### 📊 GitHub Stats 
+
 ![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical)
 
 ### 💻 Top Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR\&layout=compact\&theme=radical)
 
-### 💻 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR&layout=compact&theme=radical)
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARCHANA-SENGUNTHAR&theme=radical)
 
 ### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=react-dark)
