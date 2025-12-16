@@ -54,7 +54,7 @@
 
 ### 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&no-frame=true&row=1)
 
 ### 📊 GitHub Stats 
 
@@ -66,7 +66,7 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARCHANA-SENGUNTHAR&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ARCHANA-SENGUNTHAR&theme=radical)
 
 ### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=react-dark)
