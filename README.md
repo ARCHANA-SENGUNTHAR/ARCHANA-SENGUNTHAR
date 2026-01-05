@@ -13,7 +13,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +42,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
+
 
 ## 🧑‍💻 GitHub Profile Insights
 
@@ -69,7 +68,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
+
 
 ### 🌱 Currently Learning
 - Advanced Backend Development (Node.js)
@@ -78,7 +77,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
+
 
 ### 🤝 Let’s Collaborate
 - Full Stack Web Projects
@@ -88,7 +87,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
+
 
 ### 📫 Connect With Me
 <p>
