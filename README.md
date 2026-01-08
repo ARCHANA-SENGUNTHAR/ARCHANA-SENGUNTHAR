@@ -67,10 +67,10 @@
   <img src="https://ghchart.rshah.org/6f42c1/ARCHANA-SENGUNTHAR"/>
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ARCHANA-SENGUNTHAR/ARCHANA-SENGUNTHAR/output/snake.svg" alt="Contribution Snake Animation"/>
-</p>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=tokyo-night&area=true&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  ">
+</p>]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
