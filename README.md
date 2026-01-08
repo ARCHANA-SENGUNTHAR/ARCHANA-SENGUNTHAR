@@ -69,7 +69,7 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=tokyo-night>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
