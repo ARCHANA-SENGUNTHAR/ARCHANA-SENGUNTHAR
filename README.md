@@ -67,9 +67,12 @@
   <img src="https://ghchart.rshah.org/6f42c1/ARCHANA-SENGUNTHAR"/>
 </p>
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ARCHANA-SENGUNTHAR/ARCHANA-SENGUNTHAR/output/snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-
 
 ### 🌱 Currently Learning
 - Advanced Backend Development (Node.js)
