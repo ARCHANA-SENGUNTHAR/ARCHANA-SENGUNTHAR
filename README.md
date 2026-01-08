@@ -47,30 +47,30 @@
 
 ## 🧑‍💻 GitHub Profile Insights
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&no-frame=true&row=1"/>
-</p>
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical&cache_seconds=1800" alt="Github Statistics"/>
 </p>
 
 ### 💻 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR&layout=compact&theme=radical&cache_seconds=1800" alt="Languages Commonly Used"/>
 </p>
 
-### 📈 Contribution Activity
+###  🐍Contribution Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/6f42c1/ARCHANA-SENGUNTHAR"/>
+  <img src="https://ghchart.rshah.org/6f42c1/ARCHANA-SENGUNTHAR" alt="Contribution HeatMap" alt="Contribution Heatmap"/>
 </p>
 
-### 🐍 Contribution Graph
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARCHANA-SENGUNTHAR&theme=gruvbox&no-frame=true&row=1" alt="Git Trophies"/>
 </p>
+
+###  📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=rogue&area=true&hide_border=true&margin-w=10&margin-h=10&no-bg=true&no-frame=false"
+    height="220"
+    alt="Contribution graph"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
