@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm ARCHANA GURUSAMY!!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=ARCHANA%20GURUSAMY&fontColor=ffffff&fontSize=35"/>## 👋 Hi there, I'm ARCHANA GURUSAMY!!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B5DE5&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+Programmer+%7C+Problem+Solver;Building+Real-World+Tech+Solutions"/>
 
@@ -23,8 +23,6 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-## 🧑‍💻 GitHub Profile Insights
 
 ## 🧑‍💻 GitHub Profile Insights
 
