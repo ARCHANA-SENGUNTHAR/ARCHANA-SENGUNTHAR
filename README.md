@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=ARCHANA%20GURUSAMY&fontColor=ffffff&fontSize=35"/>## 👋 Hi there, I'm ARCHANA GURUSAMY!!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=ARCHANA%20GURUSAMY&fontColor=ffffff&fontSize=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B5DE5&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;Java+Programmer+%7C+Problem+Solver;Building+Real-World+Tech+Solutions"/>
 
