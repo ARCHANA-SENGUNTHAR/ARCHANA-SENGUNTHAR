@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical"/>
 
 ### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCHANA-SENGUNTHAR&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCHANA-SENGUNTHAR&theme=highcontrast"/>
 
 ### 💻 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR&layout=compact&theme=radical"/>
