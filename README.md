@@ -26,8 +26,13 @@
 
 ## 🧑‍💻 GitHub Profile Insights
 
+## 🧑‍💻 GitHub Profile Insights
+
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ARCHANA-SENGUNTHAR&show_icons=true&theme=radical"/>
+
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCHANA-SENGUNTHAR&theme=radical"/>
 
 ### 💻 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHANA-SENGUNTHAR&layout=compact&theme=radical"/>
@@ -41,7 +46,7 @@
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCHANA-SENGUNTHAR&theme=rogue&area=true&hide_border=true&no-bg=true"
      height="220"/>
-
+     
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🌱 Currently Learning
